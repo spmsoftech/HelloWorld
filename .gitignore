@@ -1,0 +1,8 @@
+HelloWorld.API/HelloWorld.API/bin/
+HelloWorld.API/HelloWorld.API/obj/
+HelloWorld.API/.vs/config/applicationhost.config
+HelloWorld.API/.vs/HelloWorld.API/v15/.suo
+HelloWorld.API/HelloWorld.API.Tests/obj/
+HelloWorld.Web/HelloWorld.Web.Tests/obj/
+HelloWorld.Web/HelloWorld.Web/bin/
+HelloWorld.Web/HelloWorld.Web/obj/

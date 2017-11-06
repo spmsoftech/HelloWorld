@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <p class="lead">This is hello world project interacting with API</p>
+    <p><b>Message returned from API: </b><span>@ViewBag.Message </span> @Html.ActionLink("Refresh","Index","Home")</p>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <h2>Note:</h2>
+        <p>1.) Url of api is in web.config in ApiURL AppSetting</p>
+    </div>
+</div>
